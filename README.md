@@ -1,2 +1,2 @@
 # AutoCensor
-AutoCensor
+Программа "AutoCensor" для цензурированния заданных слов в тексте
