@@ -1,0 +1,11 @@
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\bin\Debug\AutoCensorship.exe.config
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\bin\Debug\AutoCensorship.exe
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\bin\Debug\AutoCensorship.pdb
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\obj\Debug\AutoCensorship.csproj.AssemblyReference.cache
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\obj\Debug\AutoCensorship.Form1.resources
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\obj\Debug\AutoCensorship.Properties.Resources.resources
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\obj\Debug\AutoCensorship.UserControl1.resources
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\obj\Debug\AutoCensorship.csproj.GenerateResource.cache
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\obj\Debug\AutoCensorship.csproj.CoreCompileInputs.cache
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\obj\Debug\AutoCensorship.exe
+E:\2-й Курс\2-й Семестр\ГДИК\AutoCensorship\obj\Debug\AutoCensorship.pdb
